@@ -1,0 +1,2 @@
+# ciaranCodility
+Codility Solutions 
