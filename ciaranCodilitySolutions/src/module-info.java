@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author ciaranobrien
+ *
+ */
+module ciaranCodilitySolutions {
+}
