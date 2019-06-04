@@ -17,10 +17,17 @@ public class BinaryGap {
 		userInput = consoleScanner.nextInt();
 		BinaryGap(userInput);
 	}
-	
-	public static int BinaryGap(int N) {
+
+/**
+ * 
+ * @param Integer
+ * @return
+ * Take in an integer, convert it into binary and return the largest binary gap.
+ * Binary gap is a sequence of zeros that are prefixed and postfixed by ones.
+ */
+	public static int BinaryGap(int Integer) {
         
-        int integer                         = N;
+        int integer                         = Integer;
         int modValue                        = 0;
         ArrayList<Integer> intBinaryVal         = new ArrayList<Integer>();
         ArrayList<Integer> reversedBinaryVal    = new ArrayList<Integer>();
